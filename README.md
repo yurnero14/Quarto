@@ -16,7 +16,7 @@ Angelica Ferlin - Discussed possible solutions/problems and helped me with the m
 
 
 ## Code Development
-In the beginning of the project, Angelica did some research on different possible algorithms and Leonor studied the implementation of Minimax. However, after careful consideration, it was decided to implement Reinforcement Learning instead. I took this decision because I am much more confident implementing an RL based solution since I have done a few mini projects on my own in the past based on RL. Additionally, it was anticipated that Minimax would require a significant amount of time, given the large number of possible states in the game of Quarto.
+In the beginning of the project, I, with the help of Angelica did some research on different possible algorithms. However, after careful consideration, it was decided to implement Reinforcement Learning instead. I took this decision because I am much more confident implementing an RL based solution since I have done a few mini projects on my own in the past based on RL. Additionally, it was anticipated that Minimax would require a significant amount of time, given the large number of possible states in the game of Quarto.
 
 In the process of developing the Reinforcement Learning strategy, a substantial amount of knowledge was gained from the concerned lectures. In all honesty, I am not the best in coding so Angelica helped giving me the direction to develop an algorithm to code for Q-learning.
 
