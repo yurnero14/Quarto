@@ -1,7 +1,7 @@
 # Computational Intelligence - Quarto
 
 ## Author
-Muhammad Sarib Khan s298885
+Muhammad Sarib Khan 
 
 ## Collaborators
 Angelica Ferlin - Discussed possible solutions/problems and helped me with the management of Q tables
