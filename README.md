@@ -1,11 +1,9 @@
 # Computational Intelligence - Quarto
 
-## Co-Authors[README.md](README.md)
+## Author[README.md](README.md)
 Muhammad Sarib Khan s298885
 
 ## Collaborators
-To be completely candid, since there was no one for this session that I could team up with, I contacted my friend, Angelica Ferlin (an erasmus exchange student), who appeared in the January session and discussed my ideas with her.
-
 Angelica Ferlin - Discussed possible solutions/problems and helped me with the management of Q tables
 
 ## Resources 
