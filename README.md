@@ -4,7 +4,7 @@
 Muhammad Sarib Khan 
 
 ## Collaborators
-Angelica Ferlin - Discussed possible solutions/problems and helped me with the management of Q tables
+Angelica Ferlin - Discussed possible solutions/problems and helped me with the management of Q tables. Also developed Genetic Algorithm Agents
 
 ## Resources 
 ### Links
