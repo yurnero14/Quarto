@@ -1,6 +1,6 @@
 # Computational Intelligence - Quarto
 
-## Author[README.md](README.md)
+## Author
 Muhammad Sarib Khan s298885
 
 ## Collaborators
