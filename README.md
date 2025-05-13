@@ -3,14 +3,12 @@
 ## TL;DR
 Technologies: Python, NumPy, Jupyter Notebook, Q-Learning, Genetic Algorithms, Object-Oriented Design, Pickle, Git LFS; \
 \
-Designed and implemented AI agents to play the board game Quarto, applying advanced techniques in reinforcement learning and evolutionary algorithms. Tackled agent design, training optimization, and state-action encoding in a complex multi-state game environment.
-- Developed and trained a Q-learning agent with a custom Q-table architecture integrating game state and action as a hashable key
-- Designed sub-optimal "bad agents" to bootstrap RL training before transitioning to randomized or strategic opponents
-- Implemented hash and equality methods for custom Q-table keys to overcome Python object comparison limitations
-- Integrated Q-table persistence using Pickle, and optimized storage using Git LFS to handle large file sizes
-- Created an ExtendedQuarto class to manage dynamic game states and agent evaluation across multiple training runs
-- Collaborated on development and tuning of Genetic Algorithm-based agents for comparative evaluation
-- Fine-tuned agent performance across 1000–3000+ training episodes, with exploration decay strategies and agent matchup variation
+Designed and implemented AI agents to play the board game Quarto, applying advanced techniques in reinforcement learning and evolutionary algorithms.
+- Developed and trained a Q-learning agent with a custom Q-table structure, integrating board state and move into hashable keys
+- Created intentionally weak agents to help bootstrap RL training; optimized exploration and learning schedule
+- Collaborated on Genetic Algorithm agents; evaluated performance across hundreds of simulated games
+- Overcame Q-table storage limitations using Pickle and Git Large File Storage
+- Engineered an ExtendedQuarto class for smoother player control and integration with existing libraries
 
 
 ## Author
